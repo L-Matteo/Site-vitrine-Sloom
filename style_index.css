@@ -1,0 +1,78 @@
+body{
+    background-color: #37333F;
+}
+
+/*haut de page */
+header{
+    background-color: #37333F;
+}
+
+header .col-12 h2{
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+header .col-12 h2 a{
+    color: #F7BC82;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header .col-12 h2 a:hover{
+    color: #6FA7A7;
+}
+
+header .col-12 img{
+    width: 75px;
+    height: auto;
+    float: right;
+
+}
+/* menu */
+nav{
+    background-color:#37333F;
+    margin-bottom: 3rem;
+}
+
+nav a{
+    text-decoration: none;
+    margin-left: 2rem;
+    font-weight: bold;
+    color: #F7BC82;
+    font-size: large;
+    
+}
+
+
+nav a:hover{ /* hover = lorsqu'on passe la souris dessus */
+    color: #6FA7A7;
+}
+
+/* corps du site */
+main section h3 a{
+    color: #6FA7A7;
+    margin-left: 2rem;
+    font-family: "Binggo wood";
+    font-weight: bold;
+    text-decoration: none;
+}
+
+main section h3 a:hover{
+    color: #F7BC82;
+}
+
+main section p{
+    color: #FFFFFF;
+    margin-left: 2rem;
+    font-family: "PT serif";
+    font-size: large;
+}
+
+main section p a{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+main section p a:hover{
+    color: #F7BC82;
+}
